@@ -1,24 +1,19 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Sparta-Rails-Intro-Homework
 
-Things you may want to cover:
+## Purpose
+This is a simple blog created using Ruby on Rails. I coded along to a video which can be found on https://www.youtube.com/watch?v=pPy0GQJLZUM.
 
-* Ruby version
+## Implementation
+The funcitonality has been implemented using Ruby on Rails.
 
-* System dependencies
+#### Download
+To download the code visit the github repo name Sparta-Rails-Intro-Homework and click the clone or download button to download as zip.
+Alternatively the following command can be copied into the terminal:
 
-* Configuration
+```
+git@github.com:isabelvalente/Sparta-Rails-Intro-Homework.git
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Challenges
+The main challenge was to get the syntax exactly correct. 
